@@ -8,8 +8,6 @@
 
 # Photo of the tool 
 <img src="menu.png"/>
-
-## options
 <img src='https://ibb.co.com/bjrqMcBC'/>
 alt="Screenshot-Termux" border="0"></a>
 -------------------
