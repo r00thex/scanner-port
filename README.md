@@ -7,7 +7,7 @@
 -------------------
 
 # Photo of the tool 
-<a href="https://ibb.co/6mKQsxn"><img src="https://ibb.co.com/bjrqMcBC" alt="Screenshot-Termux" border="0"></a>
+<a href="https://ibb.co.com/bjrqMcBC"><img src="https://ibb.co.com/bjrqMcBC" alt="Screenshot-Termux" border="0"></a>
 -------------------
 ## Installation 
 - Instructions for installing the tool 
