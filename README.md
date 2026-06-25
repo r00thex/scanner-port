@@ -18,7 +18,7 @@
 
 <li> pkg install python3 </li>
 
-<li> git clone  </li>
+<li> git clone https://github.com/r00thex/scanner-port.git </li>
 
 <li> cd scanner-port </li>
 
