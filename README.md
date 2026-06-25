@@ -5,12 +5,6 @@
 - This script will show you the open ports of the server! 
 - Please enter https and http to run correctly 
 -------------------
-
-# Photo of the tool 
-<img src="menu.png"/>
-<img src='https://ibb.co.com/bjrqMcBC'/>
-alt="Screenshot-Termux" border="0"></a>
--------------------
 ## Installation 
 - Instructions for installing the tool 
 - `If you don't understand, refer to` <a href="https://t.me/roothexc">Telegram account</a>
